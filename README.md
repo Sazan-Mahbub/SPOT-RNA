@@ -1,3 +1,9 @@
+## edits:
+
+Runnable with python=3.10, and tensorflow=?(todo) in macos
+
+
+# ORIGINAL README
 SPOT-RNA: *RNA Secondary Structure Prediction using an Ensemble of Two-dimensional Deep Neural Networks and Transfer Learning.*
 ====
 
